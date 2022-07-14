@@ -1,37 +1,45 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/digigrrl525/FM-qr-code-solution/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+# Frontend Mentor - QR code component solution
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-### Markdown
+## Table of contents
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+- [Author](#author)
 
-```markdown
-Syntax highlighted code block
+## Overview
 
-# Header 1
-## Header 2
-### Header 3
+### Screenshot
 
-- Bulleted
-- List
+![](screenshots/Desktop.png)  or ![](screenshots/Mobile.png)
 
-1. Numbered
-2. List
+### Links
 
-**Bold** and _Italic_ and `Code` text
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
-[Link](url) and ![Image](src)
-```
+## My process
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Start with writing html, switch to css to style, then use the Chrome inspector to touch-up code.
 
-### Jekyll Themes
+### Built with
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/digigrrl525/FM-qr-code-solution/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Semantic HTML5 markup
+- CSS custom properties
 
-### Support or Contact
+### What I learned
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I learned how to create a webpage based on sight and a simple style guide.  
+
+
+## Author
+
+- Website - [D. Jaime Blockton](https://www.your-site.com)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/digigrrl525)
