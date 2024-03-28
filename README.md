@@ -21,12 +21,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/digigrrl525/FM-qr-code-solution)
-- Live Site URL: [Add live site URL here](https://digigrrl525.github.io/FM-qr-code-solution/)
+- Solution URL: [(https://github.com/digigrrl525/FM-qr-code-solution)](https://github.com/digigrrl525/FM-qr-code-solution)
+- Live Site URL: [(https://digigrrl525.github.io/FM-qr-code-solution/)](https://digigrrl525.github.io/FM-qr-code-solution/)
 
 ## My process
 
-Start with writing html, switch to css to style, then use the Chrome inspector to touch-up code.
+Started writing HTML, switched to CSS to style, and then used the Chrome inspector to touch up code.
 
 ### Built with
 
@@ -40,4 +40,4 @@ I learned how to create a webpage based on sight and a simple style guide.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/digigrrl525)
+- Frontend Mentor - [@digigrrl525](https://www.frontendmentor.io/profile/digigrrl525)
